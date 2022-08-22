@@ -1,0 +1,34 @@
+# colours
+---
+body:
+  stroke: '#b7cad4'
+
+  fill:
+    - '#f2f8fe' # light
+    - '#deeffa' # mid
+    - '#d1e7f1' # dark
+
+eyes:
+  fill:
+  - '#ffffff' # light
+  - '#3c3e41' # mid
+  - '#000000' # dark
+
+talons:
+  stroke: '#b7cad4' # 0.70
+  fill:
+    - '#6f767c'
+    - '#3c4348'
+    - '#212325'
+
+cloud_silhouette:
+  fill: '#323f4e'
+
+cloud_puff:
+  fill:
+    - '#323f4e' # dark
+
+# blue blue
+#
+#9ac8f7
+#94c5f7
